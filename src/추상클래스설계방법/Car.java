@@ -2,7 +2,7 @@ package 추상클래스설계방법;
 
 //abstract가 붙으면 추상이다. //부모 클래스, 실체클래스
 public abstract class Car {
-	//추상 메소드 선언 /추상메소드는 중괄호가 없다.
+	//추상 메소드 선언 /추상메소드는 중괄호가 없다. //인위적 메소드
 	public abstract void drive();
 	public abstract void stop();
 	
